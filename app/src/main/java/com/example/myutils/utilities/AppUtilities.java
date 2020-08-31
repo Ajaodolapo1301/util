@@ -18,7 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
 
 import com.google.android.material.snackbar.Snackbar;
-import com.libramotors.libmot.R;
+//import com.libramotors.libmot.R;
 
 import java.util.Calendar;
 import java.util.Objects;
