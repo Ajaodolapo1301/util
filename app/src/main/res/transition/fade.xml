@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fade android:duration="3000"
+    android:startDelay="@integer/anim_length"
+    android:interpolator="@android:interpolator/accelerate_decelerate"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+</fade>
