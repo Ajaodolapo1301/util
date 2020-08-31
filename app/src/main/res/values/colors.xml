@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F12323</color>
+    <color name="colorPrimaryDark">#666565</color>
+    <color name="colorPrimaryDarkTransparent">#90666565</color>
+    <color name="colorAccent">#EB9A05</color>
+    <color name="white">#fff</color>
+    <color name="yellow55">#FDEBD8</color>
+    <color name="yellow">#FFC904</color>
+    <color name="white50">#ACA9A9</color>
+    <color name="labelText">#8D8C8C</color>
+    <color name="titleText">#525151</color>
+    <color name="red50">#FF1717</color>
+    <color name="DialogTitle">#455</color>
+    <color name="Transparent20">#E1020202</color>
+    <color name="Transparent50">#90000000</color>
+    <color name="Transparent75">#5B000000</color>
+    <color name="Transparent100">#0D000000</color>
+    <color name="Transparent150">#00000000</color>
+    <color name="blue_lighter">#75DDDDDD</color>
+    <color name="blue">#FCFDFD</color>
+    <color name="yellowGray">#6D6D05</color>
+    <color name="red20">#BD3232</color>
+    <color name="black">#000</color>
+    <color name="black75">#111111</color>
+    <color name="black50">#1F1D1D</color>
+    <color name="black25">#363636</color>
+    <color name="grey">#535050</color>
+    <color name="black5">#727171</color>
+    <color name="selected_seat_color">#317A00</color>
+    <color name="available_seat_color">#1F1E1E</color>
+    <color name="booked_seat_color">#A5A4A4</color>
+    <color name="primaryText">#413F3F</color>
+    <color name="yellow25">#8A5F0E</color>
+    <color name="red">#D50000</color>
+    <color name="background_white">#EEF3F3F3</color>
+    <color name="cardFront">#434850</color>
+    <color name="cardBack">#bc4c4a</color>
+    <color name="loading_background">#D3F8F8F8</color>
+    <color name="green">#016401</color>
+    <color name="divider_color">#A8A7A7</color>
+    <color name="dashboard_red">#B82409</color>
+    <color name="dashboard_yellow">#CA8905</color>
+    <color name="dashboard_grey">#555353</color>
+    <color name="dashboard_teal">#069281</color>
+    <color name="dashboard_green">#349938</color>
+    <color name="dashboard_login">#0A5375</color>
+    <color name="logistict_color">#FCA800</color>
+
+    <color name="dashboard_red_inactive">#CED5CDA0</color>
+    <color name="dashboard_yellow_inactive">#F7A09F83</color>
+    <color name="dashboard_grey_inactive">#CFC4C4</color>
+    <color name="dashboard_teal_inactive">#F09CAAA5</color>
+    <color name="dashboard_green_inactive">#CBDDCB</color>
+    <color name="dashboard_login_inactive">#C4785E</color>
+    <color name="dashboard_inactive">#F3797777</color>
+
+    <color name="blue_light">#3612A808</color>
+<!--    <color name="blue_lighter">#2DB8E5F3</color>-->
+    <color name="gray">#80807E</color>
+
+    <color name="gray_light">#36AFAEAE</color>
+    <color name="gray_light_50">#23E2DFDF</color>
+</resources>
